@@ -59,7 +59,7 @@ public class TestLogin {
         wd.findElement(By.xpath("//input[@id='phone_mobile']")).sendKeys("215-478-0500");
 
         wd.findElement(By.xpath("//button[@id='submitAccount']")).click();
-        //wd.close();
+        wd.close();
 
     }
 }
