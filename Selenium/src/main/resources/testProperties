@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moj Divni Website</title>
+</head>
+<body>
+    <h1>Zdravo</h1>
+</body>
+</html>
+6:51
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moj Divni Website</title>
+</head>
+<style>
+</style>
+<body>
+    <h1>Zdravo</h1>
+    <br>
+    <header>
+        <span>Dobrodosli</span>
+        <h2>ovo je ITBOOCAMP selenijum kurs</h2>
+    </header>
+    <div>
+        <h3>Gradivo: </h3>
+        <br>
+        <ul>
+            <li>QA manuelno</li>
+            <li>Java osnove</li>
+            <li>Java OOP</li>
+            <li>Selenijum + testNG</li>
+        </ul>
+    </div>
+    <footer>
+        <span>Godina 2022.</span>
+    </footer>
+</body>
+</html>
